@@ -1,6 +1,6 @@
 # TeamProject_RiftRunners
 
-![담당 기능 시연](docs/images/RR_Preview.gif)
+![담당 기능 시연](.github/assets/RR_Preview.gif)
 
 - Unreal Engine 5.8 기반의 TPS 로그라이크 팀 프로젝트입니다. PCG 기반 절차 생성과 소울라이크 보스 전투를 결합했으며, 멀티플레이를 지원합니다.
 - 본 저장소의 코드는 팀원별 폴더로 정리되어 있으며, 제가 담당한 코드는 `Workspace/KHB`에 있습니다.
